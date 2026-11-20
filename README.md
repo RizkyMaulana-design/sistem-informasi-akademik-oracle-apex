@@ -13,11 +13,15 @@ Aplikasi web **Sistem Informasi Akademik** yang dibangun dengan **Oracle APEX** 
 
 | Home | Program Studi |
 |---|---|
-| ![Home](docs/screenshots/home.png) | ![Program Studi](docs/screenshots/program-studi.png) |
+| ![Home]<img width="1920" height="913" alt="image" src="https://github.com/user-attachments/assets/15da9b06-5f39-4f39-9d2c-4f7fadb8101b" />
+(docs/screenshots/home.png) | ![Program Studi](<img width="1920" height="883" alt="image" src="https://github.com/user-attachments/assets/2112318e-7dbe-4789-9136-2779aebf94e8" />
+) |
 
 | KRS (Master-Detail) | Nilai Mahasiswa |
 |---|---|
-| ![KRS](docs/screenshots/krs.png) | ![Nilai Mahasiswa](docs/screenshots/nilai-mahasiswa.png) |
+| ![KRS](<img width="1822" height="876" alt="image" src="https://github.com/user-attachments/assets/3d10f6fa-11b0-4884-906c-2ac8e55ac11f" />
+) | ![Nilai Mahasiswa](<img width="1920" height="870" alt="image" src="https://github.com/user-attachments/assets/97d90a31-7000-48c1-9825-c3cd88e95d46" />
+) |
 
 ## Fitur
 
